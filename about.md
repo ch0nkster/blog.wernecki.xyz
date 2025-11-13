@@ -30,6 +30,7 @@ Senior QA Automation Engineer specializing in Playwright test automation and AI-
 
 ## Certifications
 
+- ISTQB Certified Tester Foundation Level (CTFL)
 - AI_devs 3 (Polish) - Advanced AI integration and implementation
 
 ## Portfolio
