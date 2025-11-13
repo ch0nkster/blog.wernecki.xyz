@@ -1,6 +1,6 @@
 # Site settings
 title: Marcin Wernecki
-email: your-email@example.com
+email: mwernecki@gmail.com
 description: >-
   Technical blog covering AI-assisted development, test automation,
   and homelab infrastructure. Senior QA Engineer sharing practical
@@ -10,9 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.wernecki.xyz"
 
 # Author
-author:
-  name: Marcin Wernecki
-  email: mwernecki@gmail.com
+author: Marcin Wernecki
 
 # Social links
 github_username: ch0nkster
